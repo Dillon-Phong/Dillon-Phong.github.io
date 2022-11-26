@@ -1,6 +1,8 @@
+---
 layout: page
-title: "TEST-TITLE"
-permalink: /test
+title: TEST-TITLE
+permalink: /test/
+---
 
 Victim: 
 
