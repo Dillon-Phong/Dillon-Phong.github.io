@@ -1,6 +1,6 @@
 layout: page
 title: "TEST-TITLE"
-permalink: /TEST-PATH
+permalink: /test
 
 Victim: 
 
