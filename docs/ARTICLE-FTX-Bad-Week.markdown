@@ -43,9 +43,9 @@ permalink: /ftx-terrible-horrible-no-good-very-bad-week/
     - Binance walks away from the FTX deal, with a spokesperson saying, _"As a result of corporate due diligence, as well as the latest news reports regarding mishandled customer funds and alleged U.S. agency investigations, we have decided that we will not pursue the potential acquisition of FTX.com"._
 - November 10, 2022 (Thursday)
     - FTX assets get frozen by Bahamian regulators with a statement released saying, _"The commission is aware of public statements suggesting that clients' assets were mishandled, mismanaged and/or transferred to Alameda Research. Based on the commission's information, any such actions would have been contrary to normal governance, without client consent and potentially unlawful"._ 
-- November 11, 2022 (Friday, Veterans Day)
+- <font color="red">November 11, 2022 (Friday, Veterans Day)</font>
     - 9:14am EST - FTX, FTX U.S., and Alameda Research, publicly announced they filed for Chapter 11 bankruptcy.
-    - 9:45pm EST - Twitter notices that hundreds of millions of dollars have begun flowing out of FTX wallets.
+    - <font color="red">9:45pm EST</font> - Twitter users notice that hundreds of millions of dollars have begun flowing out of FTX wallets.
     - 11:08pm EST - FTX General Counsel Ryne Miller tweets, _'Investigating abnormalities with wallet movements related to consolidation of ftx balances across exchanges - unclear facts as other movements not clear. Will share more info as soon as we have it.'_
     - Sometime before midnight - An admin in the FTX telegram group warns traders to uninstall FTX apps and avoid visiting the website as it may download malware and trojans to their devices. 
 - November 12, 2022 (Saturday)
