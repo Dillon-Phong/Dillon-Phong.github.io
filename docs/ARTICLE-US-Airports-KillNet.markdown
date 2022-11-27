@@ -1,6 +1,6 @@
 ---
 layout: page
-title: REPORT-U.S. Airports Suffer DDoS Attacks by Pro-Russian Hackers
+title: ARTICLE-U.S. Airports Suffer DDoS Attacks by Pro-Russian Hackers
 permalink: /us-airports-suffer-ddos-attacks-by-pro-russian-hackers/
 ---
 
@@ -24,7 +24,7 @@ permalink: /us-airports-suffer-ddos-attacks-by-pro-russian-hackers/
 - Date of attack: October 10, 2022 (Monday morning, Columbus Day)
 
 ## Facts/Damages:
-- A large scale DDoS attack was launched against several major airports in the U.S.
+- A large-scale DDoS attack was launched against several major airports in the U.S.
 - Airport websites became unavailable, either taken offline or response time slowed to a crawl.
 - Other airports had returning database connection errors.
 - Travelers couldn't get updates about their scheduled flights or book airport services. 
@@ -39,8 +39,8 @@ permalink: /us-airports-suffer-ddos-attacks-by-pro-russian-hackers/
 ## Attribution:
 - KillNet (pro-Russian hacktivist group) 
     - The group released a [list of airports](https://www.bleepstatic.com/images/news/u/1220909/Forum%20and%20Marketplace%20Posts/airports.png) on Telegram, encouraging other members and volunteers to join in on the DDos attack against the airports.
-    - KillNet has previously target other countries that sided with Ukraine, such as Romania and Italy.
-    - KillNet's subgroup: Legion attacked Norweigan and Lithuanian entites for similar reasons.
+    - KillNet has previously targeted other countries that sided with Ukraine, such as Romania and Italy.
+    - KillNet's subgroup: Legion attacked Norwegian and Lithuanian entities for similar reasons.
     
 ## Opinion:
 I looked online to see what days are the most common for flights to be booked, those days are Friday, Saturday, Sunday, and Monday; the day the attack took place. KillNet likely was gambling on a majority of the airline workers to be off on Monday in celebration of Columbus Day. This way maximizes the uptime of the DDos attack, since the fewer workers would take longer to resolve it.
