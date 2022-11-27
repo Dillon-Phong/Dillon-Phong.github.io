@@ -6,7 +6,7 @@ permalink: /iranian-hacking-group-release-nuclear-documents/
 
 # Iranian Hacking Group Release Nuclear Documents
 
-## Link:
+## Links:
 [Hacktivists Release Iran Nuclear Documents After Deadline](https://www.iranintl.com/en/202210225387)
 
 [Iran's atomic energy organization says e-mail was hacked](https://www.reuters.com/world/middle-east/irans-atomic-energy-organization-says-e-mail-was-hacked-state-media-says-2022-10-23/)

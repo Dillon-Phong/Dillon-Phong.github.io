@@ -6,7 +6,7 @@ permalink: /us-airports-suffer-ddos-attacks-by-pro-russian-hackers/
 
 # U.S. Airports Suffer DDoS Attacks by Pro-Russian Hackers
 
-## Link:
+## Links:
 [US airports' sites taken down in DDoS attacks by pro-Russian hackers](https://www.bleepingcomputer.com/news/security/us-airports-sites-taken-down-in-ddos-attacks-by-pro-russian-hackers/?&web_view=true)
 
 [Pro-Russian hackers claim responsibility for knocking U.S. airport websites offline](https://www.npr.org/2022/10/10/1127902795/airport-killnet-cyberattack-hacker-russia#:~:text=The%2520cyberattacks%2520claimed%2520by%2520Killnet,International%2520in%2520Atlanta%252C%2520among%2520others.)
