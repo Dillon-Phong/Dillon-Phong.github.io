@@ -1,7 +1,6 @@
 ---
 layout: page
 title: HOMEPAGE
-permalink: /home/
 ---
 
 # My Cyber Breach and Incident Reports
