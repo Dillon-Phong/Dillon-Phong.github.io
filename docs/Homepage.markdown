@@ -1,3 +1,9 @@
+---
+layout: page
+title: HOMEPAGE
+permalink: /home/
+---
+
 # My Cyber Breach and Incident Reports
 - 11/16/22 - [FTX's Terrible, Horrible, No Good, Very Bad Week](https://dillon-phong.github.io/ftx-terrible-horrible-no-good-very-bad-week/)
 - 10/26/22 - [Iranian Hacking Group Release Nuclear Documents](https://dillon-phong.github.io/iranian-hacking-group-release-nuclear-documents/)
