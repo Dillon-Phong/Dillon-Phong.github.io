@@ -21,7 +21,7 @@
 title: Cyber Reports
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is to host cyber incidents breaches that I'm passionate about. 
+  A repository of news stories and reports about breaches, incidents, and cyberattacks that I found interesting
 # baseurl: '/' # the subpath of your site, e.g. /blog
 url: https://dillon-phong.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dillon-phong
