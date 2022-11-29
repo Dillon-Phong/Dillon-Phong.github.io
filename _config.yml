@@ -29,7 +29,7 @@ author: Dillon Phong
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-clean-blog
+remote_theme: startbootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
