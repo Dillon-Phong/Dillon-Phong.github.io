@@ -1,8 +1,8 @@
 ---
 layout: newpost
-title: Rackspace, a Leading Example on How Not to Handle a Cyberattack
-subtitle: "Cloud computing company, Rackspace, is hit by ransomware, choosing to provide little or no information to the public."
-permalink: /rackspace-a-leading-example-on-how-not-to-handle-a-cyberattack/
+title: Title example
+subtitle: "Subtitle example"
+permalink: //
 background: '/site-images/rawImage.jpg'
 ---
 
